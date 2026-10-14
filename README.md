@@ -4,6 +4,8 @@ A free GPA / CGPA calculator for **Easwari Engineering College** students, using
 
 > Unofficial student project. Not affiliated with Easwari Engineering College or Anna University. Always confirm your final GPA and CGPA with your official results.
 
+## PR0JECT-EEC
+
 ## Features
 
 - Add or remove any number of courses with credits and grades
